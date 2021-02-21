@@ -781,9 +781,11 @@ button,
     }
 
     #main > section.one {
-      background-image: url("../../images/bannerImage.jpg");
-      border: 5px solid yellow;
-      background-color: #81918E;
+      /* background-image: url("../../images/bannerImage.jpg"); */
+      opacity: 1;
+      /* border: 5px solid yellow; */
+      /* background-color: #81918E; */
+      height: 100vh;
       color: yellow;
       align-content: flex-end;
       font-weight: 900;
@@ -815,5 +817,32 @@ button,
   display: none;
 }
 
+/* VIDEO  */
+.header-video {
+  background-color: rgba(0, 0, 100, 0.3);
+  /* height: 100vh; */
+  height: 500px;
+}
+
+.video-background {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  /* width: 1000px; */
+  height: auto;
+  /* height: 500px; */
+  z-index: -1;
+  opacity: 0.5;
+}
 
 
+@media (min-aspect-ration: 16/9) {
+  .video-background {
+    width: auto;
+    height: 100%;
+  }
+}
