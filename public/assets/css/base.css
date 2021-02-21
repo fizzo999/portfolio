@@ -128,14 +128,28 @@ input, select, textarea {
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
+		font-weight: 600;
 	}
 
 		h2.alt {
 			color: #888;
+			background-color: rgba(172, 171, 149, 0.46);
+			-webkit-text-stroke: 3px rgba(172, 171, 149, 0.46);
+			text-shadow: 3px 3px 9px black;
+			padding: 24px;
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: white;
+				font-weight: 900;
+
+			}
+
+			header p {
+				background-color: rgba(172, 171, 149, 0.46);
+				-webkit-text-stroke: 1px rgba(172, 171, 149, 0.3);
+				text-shadow: 3px 3px 9px black;
+				padding: 12px;
 			}
 
 	h3 {
@@ -176,7 +190,7 @@ input, select, textarea {
 
 		a:hover {
 			color: #E27689;
-			border-bottom-color: rgba(255, 255, 255, 0);
+			/* border-bottom-color: rgba(255, 255, 255, 0); */
 		}
 
 	sub {
