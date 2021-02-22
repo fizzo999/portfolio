@@ -293,6 +293,24 @@ section, article {
     display: block;
     width: 100%;
   }
+/* note to SELF - click image effect */
+
+
+  article.item {
+    box-shadow: -5px -5px 10px #6b6d75;
+    transition: all 400ms ease-in-out;
+  }
+
+  article.item:hover {
+    box-shadow: 0 0 55px 25px #f2ff044f;
+    border: solid 3px #f2ff044f;
+    opacity: 0.8;
+  }
+
+  article.item:active {
+    width: 90%;
+    margin: 5%;
+  }
 
   .image.featured {
     display: block;
@@ -508,13 +526,36 @@ button,
     height: 46px;
     width: 250px;
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 400;
     background-color: rgba(172, 171, 149, 0.46);
     -webkit-text-stroke: 1px rgba(172, 171, 149, 0.3);
     text-shadow: 2px 2px 9px black;
     transition: all 0.5s ease-in-out;
   }
   a#heroButton:hover {
+    color: yellow!important;
+    background-color: rgba(255, 255, 255, 0.118);
+    border: 3px rgba(177, 176, 176, 0.275) solid!important;
+    -webkit-text-stroke: 1px rgba(172, 171, 149, 0.1);
+    text-shadow: 1px 1px 9px black;
+
+  }
+
+  .toggleMusicBtn {
+    padding: 0;
+    background-color: #f00;
+    border: 3px white solid;
+    height: 46px;
+    width: 350px;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 40px 24px;
+    background-color: rgba(172, 171, 149, 0.46);
+    -webkit-text-stroke: 1px rgba(172, 171, 149, 0.3);
+    text-shadow: 2px 2px 9px black;
+    transition: all 0.5s ease-in-out;
+  }
+  a.toggleMusicBtn:hover {
     color: yellow!important;
     background-color: rgba(255, 255, 255, 0.118);
     border: 3px rgba(177, 176, 176, 0.275) solid!important;
@@ -542,6 +583,10 @@ button,
     .item header h3 {
       font-size: 1em;
     }
+
+.item img:active {
+
+}
 
 /* Icons */
 
