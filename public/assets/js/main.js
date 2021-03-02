@@ -131,7 +131,9 @@ function controlSong() {
 
 document.getElementById('raveMusicOn').addEventListener('click', handleToggle);
 // controlSong2.removeEventListener('click', handleToggle2);
+
 let song = document.getElementById('killigrew');
+
 function handleToggle() {
 	if (song.paused) {
 		song2.pause();
@@ -144,7 +146,7 @@ controlSong();
 
 function controlSong2() {
 	let targetElement2 = document.getElementById('patrickHernandez');
-	targetElement2.volume = 1;
+	targetElement2.volume = 0.5;
 }
 
 document.getElementById('born2BAlive').addEventListener('click', handleToggle2);
