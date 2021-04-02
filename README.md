@@ -1,13 +1,19 @@
 ### <center>portfolio</center>
+
 ##### <center>as the title says this is a portfolio website about me and the projects I have created so far.</center>
+
 # <center>Fizzo Pannosch</center>
+
 I am a software developer. Resident to the pacific northwest. I am currently continuing my education @Codefellows in Seattle, WA - one of the best coding boot camps in the nation.
 I am graduating Javascript and Pyhton in November 2021. I am looking forward to a great career in software development. I love exploring, creating and experiencing the genius mind that lies latent in everyone of us. I love people and I love business.
 
+#### resources
 
+https://www.youtube.com/watch?v=quFZ99fdKrk
+video by Easy Tutorials about how to implement a fullscreen video background
 
-
-
+https://scottfalbo.github.io/blackjack/
+blackjack game that had audio tags on it - I improved the logic for myself to where each button switches off the other music - so you never hear both at once - no overlap
 
 #### timelog for this site
 
@@ -23,7 +29,6 @@ Finish time: 10.00 PM
 
 Actual time needed to complete: 2 HOURS
 
-
 ### 02/20/2021
 
 Number and name of feature: SMACCSify the 2800 lines of CSS - and styling and personalizing the webite - make it my own
@@ -36,11 +41,35 @@ Finish time: 10.00 PM
 
 Actual time needed to complete: 6 HOURS
 
+### 02/21/2021
+
+Number and name of feature: watch youtube video on fullscreen video background and then go hunting for the html and css spot in the existing code to implement it and style it
+
+Estimate of time needed to complete: 3 HOURS
+
+Start time: 10:00 AM
+
+Finish time: 1.00 PM
+
+Actual time needed to complete: 3 HOURS
+
+### 02/21/2021
+
+Number and name of feature: push further to implement audio - Javascript for ON/OFF buttons
+
+Estimate of time needed to complete: 3 HOURS
+
+Start time: 1:00 PM
+
+Finish time: 4.00 PM
+
+Actual time needed to complete: 3 HOURS
+
 ## <center>BEFORE</center>
 
 ![this is before](./public/images/1392Html5Up.PNG)
 
----------------------------------------------------------
+---
 
 ## <center>AFTER</center>
 
@@ -48,6 +77,10 @@ Actual time needed to complete: 6 HOURS
 
 ## <center>I had a lot of fun playing in the garden of CSS and HTML</center>
 
+---
 
+## <center>AFTER</center>
 
+![this is after implementing a video background AND music](./public/images/2281.PNG)
 
+## <center>I had a lot of fun implementing a video background(fullscreen) and 2 audio tracks (had to play with JS to make the on/off buttons and the audio controls work</center>
