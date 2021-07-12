@@ -2,6 +2,8 @@
 
 ##### <center>as the title says this is a portfolio website about me and the projects I have created so far.</center>
 
+### <center><a href="fizzo-portfolio2021.herokuapp.com/">link to my deployed site - fizzo-portfolio2021.herokuapp.com/</a></center>
+
 # <center>Fizzo Pannosch</center>
 
 I am a software developer. Resident to the pacific northwest. I am currently continuing my education @Codefellows in Seattle, WA - one of the best coding boot camps in the nation.
