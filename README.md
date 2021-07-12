@@ -77,7 +77,6 @@ Actual time needed to complete: 3 HOURS
 
 ![this is after](./public/images/1393Html5UpAfter.PNG)
 
-## <center>I had a lot of fun playing in the garden of CSS and HTML</center>
 
 ---
 
@@ -85,4 +84,4 @@ Actual time needed to complete: 3 HOURS
 
 ![this is after implementing a video background AND music](./public/images/2281.PNG)
 
-## <center>I had a lot of fun implementing a video background(fullscreen) and 2 audio tracks (had to play with JS to make the on/off buttons and the audio controls work</center>
+## <center>I had a lot of fun implementing a video background(fullscreen) and 2 audio tracks (implemented separate JS logic to make the on/off buttons and the audio controls work correctly for best user experience)</center>
