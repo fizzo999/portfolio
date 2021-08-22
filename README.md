@@ -4,8 +4,8 @@
 
 # <center>Fizzo Pannosch</center>
 
-I am a software developer. Resident to the pacific northwest. I am currently continuing my education @Codefellows in Seattle, WA - one of the best coding boot camps in the nation.
-I am graduating Javascript and Pyhton in November 2021. I am looking forward to a great career in software development. I love exploring, creating and experiencing the genius mind that lies latent in everyone of us. I love people and I love business.
+I am a software developer. Resident to the pacific northwest. I have completed my education @Codefellows in Seattle, WA - one of the best coding boot camps in the nation.
+I have graduated from 401 Advanced Software Development in JavaScript. I am looking forward to a great career in software development. I love exploring, creating and experiencing the genius mind that lies latent in everyone of us. I love people, I love business and I love creating powerful and beautiful digital products.
 
 #### resources
 
