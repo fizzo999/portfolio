@@ -1020,10 +1020,11 @@ div.connect {
   display: flex;
   justify-content: space-evenly;
   align-items: flex-end;
+  margin-top: -25px;
 }
 
 div.connect a:hover {
-  border: 3px solid white;
+  /* border: 3px solid white; */
   /* filter: invert(100%);
 -webkit-filter: invert(100%); */
 }
