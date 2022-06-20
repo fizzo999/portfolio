@@ -85,3 +85,7 @@ Actual time needed to complete: 3 HOURS
 ![this is after implementing a video background AND music](./public/images/2281.PNG)
 
 ## <center>I had a lot of fun implementing a video background(fullscreen) and 2 audio tracks (implemented separate JS logic to make the on/off buttons and the audio controls work correctly for best user experience)</center>
+
+- [x] implement video backdrop
+- [x] implement 2 audio tracks
+- [ ] implement media querry for mobile view
