@@ -7,6 +7,7 @@
 # <center>Fizzo Pannosch</center>
 
 I am a software developer. Resident to the pacific northwest. I have completed my education @Codefellows in Seattle, WA - one of the best coding boot camps in the nation.
+
 I have graduated from 401 Advanced Software Development in JavaScript. I am looking forward to a great career in software development. I love exploring, creating and experiencing the genius mind that lies latent in everyone of us. I love people, I love business and I love creating powerful and beautiful digital products.
 
 #### resources
@@ -84,7 +85,7 @@ Actual time needed to complete: 3 HOURS
 
 ![this is after implementing a video background AND music](./public/images/2281.PNG)
 
-<center>I had a lot of fun implementing a video background(fullscreen) and 2 audio tracks (implemented separate JS logic to make the on/off buttons and the audio controls work correctly for best user experience)</center>
+<center>I had a lot of fun implementing a video background(fullscreen) and 2 audio tracks (implemented separate JS logic to make the on/off buttons and the audio controls work correctly for best user experience).</center>
 
 - [x] implement video backdrop
 - [x] implement 2 audio tracks
